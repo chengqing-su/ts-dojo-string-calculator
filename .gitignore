@@ -1,0 +1,8 @@
+node_modules/
+tmp/
+dist/
+*.log
+coverage/
+.idea/
+artifacts/
+e2e-test/configs/cpdev-next-e2e*
